@@ -10,7 +10,7 @@
 import logging
 
 # BMP280 default address.
-BMP280_I2CADDR = 0x77
+BMP280_I2CADDR = 0x76
 BMP280_CHIPID = 0xD0
 
 # BMP280 Registers
